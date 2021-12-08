@@ -2,7 +2,7 @@ Ben Norton
 ============
 Head of Technology  
 Collections Data Curator  
-Collections Manager of Meteorites  
+Collections Manager of Mineralogy
 
 North Carolina Museum of Natural Sciences  
 Research & Collections  
