@@ -1,6 +1,6 @@
 Ben Norton
 ============
-Senior Data Scientist, Data Curator, and Private Consultant
+Senior Data Scientist, Data Curator, and Private Consultant  
 Ecosystem Planning & Restoration  
 *[michaelnorton.ben@gmail.com](michaelnorton.ben@gmail.com)*   
 *[ben@geoapis.io](ben@geoapis.io)*  
