@@ -1,7 +1,7 @@
 Ben Norton
 ============
-Senior Data Scientist, Data Curator, and Private Consultant  
+Senior Data Scientist, Data Curator, and Informatics Consultant  
 Ecosystem Planning & Restoration  
-*[michaelnorton.ben@gmail.com](michaelnorton.ben@gmail.com)*   
+*[bnorton@eprusa.net](bnorton@eprusa.net)*   
 *[ben@geoapis.io](ben@geoapis.io)*  
-*[https://mbnorton.com](https://mbnorton.com)*  
+*[https://mbnorton.com](https://mbnorton.com)*   
