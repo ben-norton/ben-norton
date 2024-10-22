@@ -2,7 +2,7 @@ Ben Norton
 ============
 Senior Data Scientist, Data Curator, Web Developer, and Informatics Consultant  
 Specialist in the Museum, Biology, and Geosciences Domains  
-Ecosystem Planning & Restoration  
+[Ecosystem Planning & Restoration](https://www.eprusa.net)  
 *[bnorton@eprusa.net](bnorton@eprusa.net)*   
 *[michaelnorton.ben@gmail.com](michaelnorton.ben@gmail.com)*  
 *[https://mbnorton.com](https://mbnorton.com)*  
